@@ -1,4 +1,3 @@
-
 // importo express
 const express = require('express');
 
@@ -20,36 +19,36 @@ const bacheca = [
 {
   name: "Espeon",
   content: "Psycho",
-  image: "img/espeon.jpg",
+  image: "/img/espeon.jpg",
   tags: ["pokemon", "psycho", "cute", "purple"],
 }, 
 
 {
   name: "Glaceon",
   content: "Ice",
-  image: "img/glaceon.jpg",
-  tags: ["pokemon", "psycho", "cute", "purple"],
+  image: "/img/glaceon.jpg",
+  tags: ["pokemon", "ice", "cute", "white"],
 },
 
 {
   name: "Leafeon",
   content: "Grass",
-  image: "img/leafeon.jpg",
-  tags: ["pokemon", "psycho", "cute", "purple"],
+  image: "/img/leafeon.jpg",
+  tags: ["pokemon", "grass", "cute", "green"],
 },
 
 {
   name: "Sylveon",
   content: "Poison",
-  image: "img/sylveon.jpg",
-  tags: ["pokemon", "psycho", "cute", "purple"],
+  image: "/img/sylveon.jpg",
+  tags: ["pokemon", "poison", "cute", "pink"],
 },
 
 {
   name: "Umbreon",
   content: "Dark",
-  image: "img/umbreon.jpg",
-  tags: ["pokemon", "psycho", "cute", "purple"],
+  image: "/img/umbreon.jpg",
+  tags: ["pokemon", "dark", "cute", "lightpurple"],
 }
 ];
 
